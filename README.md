@@ -1,6 +1,6 @@
 # Cálculo IMC Índice de Massa Corporal
 * ## Sobre
-    #### Projeto que foi desenvolvido durante o Minicamp Data & Dev da Faculdade XP.
+    #### Projeto que foi desenvolvido durante o Minicamp Dev & Data da Faculdade XP.
 
 https://user-images.githubusercontent.com/109553661/189224710-94497cb9-5d27-4cf4-afdd-993b92acb3d2.mp4
 

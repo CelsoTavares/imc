@@ -7,8 +7,8 @@ https://user-images.githubusercontent.com/109553661/189224710-94497cb9-5d27-4cf4
 * ## O que apreendi?
 1.  Deixar o input com valor pré-definido.
 2.  Inserir átraves do javascript com o innerhtml tags do html.
-3.  Definir quantidade de casas decimais no javascript com o .toFixed( ).
-4.  Trocar elementos com o .replace( ).
+3.  Definir quantidade de casas decimais no javascript com o *.toFixed( )*.
+4.  Trocar elementos com o *.replace( )*.
 
 * ## Tecnologias
     #### HTML, CSS e JavaScript.
